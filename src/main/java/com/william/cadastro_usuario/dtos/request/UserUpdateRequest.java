@@ -1,8 +1,7 @@
 package com.william.cadastro_usuario.dtos.request;
 
-import com.meva.user.dtos.FamilyDTO;
-import jakarta.validation.Valid;
-import jakarta.validation.constraints.Past;
+
+import com.william.cadastro_usuario.dtos.FamilyDTO;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

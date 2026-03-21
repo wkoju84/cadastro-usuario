@@ -1,6 +1,7 @@
 package com.william.cadastro_usuario.dtos.response;
 
-import com.meva.user.entities.Family;
+
+import com.william.cadastro_usuario.entities.Family;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,7 @@
 package com.william.cadastro_usuario.repositories;
 
-import com.meva.user.entities.Family;
+
+import com.william.cadastro_usuario.entities.Family;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

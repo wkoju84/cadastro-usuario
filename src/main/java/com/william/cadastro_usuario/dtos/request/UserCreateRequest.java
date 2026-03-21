@@ -1,6 +1,7 @@
 package com.william.cadastro_usuario.dtos.request;
 
-import com.meva.user.dtos.FamilyDTO;
+
+import com.william.cadastro_usuario.dtos.FamilyDTO;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
